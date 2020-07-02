@@ -19,5 +19,5 @@ Two examples are provided: <br>
  Start executing the code by `python run_puma.py`
 
 # Authors
-This software is written by Ramtin Hosseini, Neda Hassanpour, Liping Liu, and Soha Hassoun (Soha.Hassoun@tufts.edu).<br>
+This software is written by Ramtin Hosseini, Neda Hassanpour, Liping Liu, and Soha Hassoun (Ramtin.Hosseini@tufts.edu).<br>
 **Paper title:** Pathway Activity Analysis and Metabolite Annotation for Untargeted Metabolomics using Probabilistic Modeling
