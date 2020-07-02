@@ -20,4 +20,5 @@ Two examples are provided: <br>
 
 # Authors
 This software is written by Ramtin Hosseini, Neda Hassanpour, Liping Liu, and Soha Hassoun (Ramtin.Hosseini@tufts.edu).<br>
-**Paper title:** Pathway Activity Analysis and Metabolite Annotation for Untargeted Metabolomics using Probabilistic Modeling
+**Paper title:** Pathway-Activity Likelihood Analysis and Metabolite Annotation for Untargeted Metabolomics using Probabilistic Modeling
+Link: https://www.mdpi.com/2218-1989/10/5/183
