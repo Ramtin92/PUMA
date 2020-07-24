@@ -5,6 +5,10 @@
 
 Keywords: machine learning; inference; untargeted metabolomics; biological network; metabolic model
 
+Ramtin Hosseini, Neda Hassanpour, Liping Liu, and Soha Hassoun (Ramtin.Hosseini@tufts.edu) "Pathway-Activity Likelihood Analysis and Metabolite Annotation for Untargeted Metabolomics using Probabilistic Modeling", Metabolites 2020, 10, 183.
+
+Link: https://www.mdpi.com/2218-1989/10/5/183
+
 # Getting Started
 `Python 3.5.6` is used for development. We recommend installing packages using Anaconda as follows:<br>
 `conda create --name PUMA --file enviroment.yml`<br>
@@ -18,7 +22,4 @@ Two examples are provided: <br>
 # How to run the code?
  Start executing the code by `python run_puma.py`
 
-# Authors
-This software is written by Ramtin Hosseini, Neda Hassanpour, Liping Liu, and Soha Hassoun (Ramtin.Hosseini@tufts.edu).<br>
-**Paper title:** Pathway-Activity Likelihood Analysis and Metabolite Annotation for Untargeted Metabolomics using Probabilistic Modeling <br>
-Link: https://www.mdpi.com/2218-1989/10/5/183
+
