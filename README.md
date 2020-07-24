@@ -22,4 +22,15 @@ Two examples are provided: <br>
 # How to run the code?
  Start executing the code by `python run_puma.py`
 
+# Results
+
+## Illustrative Example
+
+
+
+
+
+
+
+
 
