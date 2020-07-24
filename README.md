@@ -29,12 +29,10 @@ Two examples are provided: <br>
 <img src="Figures/Figure 1.png" alt="drawing" width="600px"/> 
 <p>Illustrative example of uncertainty when mapping measurements to metabolites and pathways. Pathways (ovals) are associated with metabolites (circles), which in turn are associated with measurements (square). White circles represent non-measured metabolite with membership in one or more pathways. Blue circles represent measured metabolites that have multiple-pathway memberships (multiple-pathway membership is assumed but not shown for j3 and j4). The red circle represents a metabolite that has membership in only one pathway. Measurement w5 uniquely maps to j13, which uniquely maps to Pathway 2, while all other measurements map to multiple metabolites, as shown by solid or dotted lines.</p>
 
-
 ## Workflow
 
 <img src="Figures/Figure 2.png" alt="drawing" width="600px"/> 
 <p>Comparison of a workflow to collect and interpret observations (A), and a generative model that captures a biological process (B).</p>
-
 
 ## The Generative Model
 
@@ -58,8 +56,6 @@ Two examples are provided: <br>
 ### Probabilities of Metabolite Annotations
 
 <img src="Figures/Figure 6.png" alt="drawing" width="600px"/> 
-<p>Metabolite annotations attained with PUMA against those identified by: (A) searching spectral databases, HMDB and METLIN, and (B) BioCAn. The blue slice in each pie represents “agreement”. The orange and gray slices represent “semi-agreement” and “disagreement” respectively. Finally, the yellow slice represents the number of mass measurements that could only be annotated by PUMA.</p>
-
 
 ### Evaluation of PUMA in Overcoming Uncertainty in Annotation
 
@@ -84,4 +80,3 @@ Two examples are provided: <br>
 ### Probabilities of Metabolite Annotations
 
 <img src="Figures/Figure 8.png" alt="drawing" width="600px"/> 
-<p>Metabolite annotations attained with PUMA against those identified by Roux et al. The blue slice represents “agreement”. The orange slice represents “clarification”. The gray slice represents “disagreement” and the yellow slice represents “model incompleteness issue”.</p>
