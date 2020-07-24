@@ -22,15 +22,55 @@ Two examples are provided: <br>
 # How to run the code?
  Start executing the code by `python run_puma.py`
 
-# Results
+# Methods
 
 ## Illustrative Example
 
+<img src="Figures/Figure 1.png" alt="drawing" width="600px"/> 
 
 
+## Workflow
+
+<img src="Figures/Figure 2.png" alt="drawing" width="600px"/> 
+
+## The Generative Model
+
+<img src="Figures/Figure 3.png" alt="drawing" width="600px"/> 
+
+# Results
+
+## Model Validation
+
+<img src="Figures/Figure 4.png" alt="drawing" width="600px"/> 
+
+## Case Study: Chinese Hamster Ovary (CHO) Cell
+
+### Probabilities of Pathway Activities
+
+<img src="Figures/Figure 5.png" alt="drawing" width="600px"/> 
+
+### Probabilities of Metabolite Annotations
+
+<img src="Figures/Figure 6.png" alt="drawing" width="600px"/> 
 
 
+### Evaluation of PUMA in Overcoming Uncertainty in Annotation
+
+#### Experiments on synthetic datasets
+
+<img src="Figures/Figure S1.png" alt="drawing" width="600px"/> 
+
+<img src="Figures/Figure S2.png" alt="drawing" width="600px"/> 
+
+<img src="Figures/Figure S3.png" alt="drawing" width="600px"/> 
 
 
+## Case Study: Human Urinary Sample
 
+### Probabilities of Pathway Activities
 
+<img src="Figures/Figure 7.png" alt="drawing" width="600px"/> 
+
+### Probabilities of Metabolite Annotations
+
+<img src="Figures/Figure 8.png" alt="drawing" width="600px"/> 
